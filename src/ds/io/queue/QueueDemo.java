@@ -1,4 +1,4 @@
-package ds.io.Queue;
+package ds.io.queue;
 
 import java.util.Iterator;
 import java.util.PriorityQueue;

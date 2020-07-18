@@ -1,4 +1,4 @@
-package ds.io.Queue;
+package ds.io.queue;
 
 /* We can use Java inbuilt Deque as a double 
 ended queue to store the cache keys, with 

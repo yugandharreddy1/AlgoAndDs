@@ -1,4 +1,4 @@
-package ds.io.Stack;
+package ds.io.stack;
 
 import java.util.Stack;
 

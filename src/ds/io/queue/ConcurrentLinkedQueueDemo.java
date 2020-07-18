@@ -1,4 +1,4 @@
-package ds.io.Queue;
+package ds.io.queue;
 
 //Java program to demonstrate ConcurrentLinkedQueue 
 
