@@ -24,6 +24,7 @@ public ListNode reverseList(ListNode head) {
     return newHead;*/
 	
 
+	//Using Stack
     if(head == null) {
         return null;
     }
