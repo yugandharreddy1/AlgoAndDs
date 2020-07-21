@@ -1,4 +1,4 @@
-package ds.io.LeepCode;
+package ds.io.LeetCode;
 import java.io.*;
 import java.math.*;
 import java.security.*;

@@ -1,4 +1,4 @@
-package ds.io.LeepCode;
+package ds.io.LeetCode;
 
 public class TwoSum {
 
