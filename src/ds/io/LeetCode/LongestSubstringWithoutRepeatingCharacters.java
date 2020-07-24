@@ -6,6 +6,8 @@ import java.util.Set;
 public class LongestSubstringWithoutRepeatingCharacters {
 	public static void main(String[] args) {
 		String s="abcabcbc";
+		char[]ch=new char[0];
+		s.contentEquals(new StringBuffer(ch[0]));
 		System.out.println(lengthOfLongestSubstring(s));
 	}
 	public static int lengthOfLongestSubstring(String s) {{
