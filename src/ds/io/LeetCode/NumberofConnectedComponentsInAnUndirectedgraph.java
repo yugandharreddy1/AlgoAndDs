@@ -33,10 +33,7 @@ public class NumberofConnectedComponentsInAnUndirectedgraph {
 				count++;
 			}
 		}
-
-
 		return count;
-
 	}
 
 	private static void DFS(int v, int[] visited) {
